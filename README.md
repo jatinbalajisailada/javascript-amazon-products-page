@@ -1,7 +1,5 @@
 # JavaScript Amazon Clone: Products & Cart Page
-A responsive, client-side replica of an Amazon products page built with modern JavaScript. This project dynamically generates product listings from a data source, manages a shopping cart using local storage, and provides a seamless user experience for adding, updating, and viewing items.
-
-Live Demo: Link to your deployed project <!-- TODO: Add your live demo link here -->
+A responsive, client-side replica of an Amazon products page built with modern JavaScript. This project dynamically generates product listings from a data source, manages a shopping cart using module, and provides a seamless user experience for adding, updating, and viewing items.
 
 ## Table of Contents
 [Project Overview](#project-overview)
